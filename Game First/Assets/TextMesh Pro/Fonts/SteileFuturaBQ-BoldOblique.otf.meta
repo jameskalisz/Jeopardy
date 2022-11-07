@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 24592bfe6c9897d4c8c3e60faf702119
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Steile Futura BQ
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4744285b4981f814881999feb0952950, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
